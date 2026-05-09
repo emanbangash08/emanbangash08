@@ -8,7 +8,7 @@
 
 
 
-## 🚀 Projects
+## 🚀  Top Projects
 | Project | Description | Tech | Link |
 |--------|-------------|------|------|
 | Cogo-Shield | Personal safety app with guardian alerts & escalation chain | React, Node.js, Firebase | [Live ↗](https://cogo-shield-8f2h.vercel.app/) |
@@ -29,6 +29,4 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
-## 📊 GitHub Stats
-![Eman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emanbangash08&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emanbangash08&layout=compact&theme=tokyonight)
+
