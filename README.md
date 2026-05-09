@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Eman Fatima 👋
 
-<!--
-**emanbangash08/emanbangash08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year CS student at Air University, Islamabad  
+💻 Full-Stack Developer | React | React Native | Node.js | MongoDB  
+🔐 Interested in Cybersecurity & Mobile Development  
+📫 Reach me at: emanfatima@email.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/eman-bangash-95b3402b9)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 Projects
+| Project | Description | Tech | Link |
+|--------|-------------|------|------|
+| Cogo-Shield | Personal safety app with guardian alerts & escalation chain | React, Node.js, Firebase | [Live ↗](https://cogo-shield-8f2h.vercel.app/) |
+| SecureXPro | Desktop vulnerability assessment & reporting tool | React, Electron, Python | — |
+| GlowCare | Skincare e-commerce with doctor admin panel | MERN Stack | — |
+| Swifft | Ride-booking app with real-time tracking | React Native, Firebase | — |
+
+---
+
+## 🛠️ Skills
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+## 📊 GitHub Stats
+![Eman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emanbangash08&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emanbangash08&layout=compact&theme=tokyonight)
