@@ -2,7 +2,7 @@
 
 🎓 Final-year CS student at Air University, Islamabad  
 💻 Full-Stack Developer | React | React Native | Node.js | MongoDB  
-🔐 Interested in Cybersecurity & Mobile Development  
+🔐 Interested in Web Development , Figma , FlutterFlow
 📫 Reach me at: emanfatima@email.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/eman-bangash-95b3402b9)
 
