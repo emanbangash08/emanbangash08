@@ -1,4 +1,4 @@
-# Hi, I'm Eman Fatima 👋
+# Hi, I'm Eman Fatima 
 
 🎓 Final-year CS student at Air University, Islamabad  
 💻 Full-Stack Developer | React | React Native | Node.js | MongoDB  
